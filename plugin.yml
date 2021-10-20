@@ -5,7 +5,7 @@ api: [3.13.0]
 load: STARTUP
 author: PocketMine Team
 description: Helps develop and distribute PocketMine-MP plugins
-website: https://github.com/PocketMine/DevTools
+website: https://github.com/pmmp/DevTools
 commands:
  makeplugin:
   description: Creates a Phar plugin from one in source code form
